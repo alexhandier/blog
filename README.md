@@ -1,2 +1,2 @@
 # blog
-I post whatever comes through my mind.
+I post whatever comes to mind.
